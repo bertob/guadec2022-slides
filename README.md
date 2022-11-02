@@ -8,6 +8,9 @@ While we can and should fight to avoid the worst effects of this crisis while we
 
 In this talk I'll go over some of the scenarios we're likely to face if we don't change course, from a free software lens. What can we do today to prepare for potential disruption or collapse of infrastructure like power grids, the internet, or global supply chains? But also, what will we need in this future that free software can help provide?
 
+## Export
+Unlike previous slides, these don't need a special export tool, because they're just using Inkscapes new pages feature. They can be exported by just opening the SVG in Inkscape and saving the file as PDF.
+
 ## Blog Post Series
 I've written up this talk in a series of blog posts:
 
